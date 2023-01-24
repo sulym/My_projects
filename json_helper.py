@@ -1,5 +1,5 @@
 import json
-import os.path
+import os.path 
 
 def read_words_from_json():
     if not os.path.exists('Dictionary_English.json'):
