@@ -1,0 +1,28 @@
+Test Report:
+
+
+
+August:
+
+Tests executed: 1700
+
+Tests passed: 1672
+
+Tests blocked: 15
+
+Tests failed: 13
+
+
+Defects submitted: 20. 
+Blockers: 3; 
+Critical: 5;
+
+Defects closed: 40. 
+Blockers: 7; 
+Critical: 12;
+
+
+
+Attach: 
+checklist with results; 
+lists of not closed defects;
