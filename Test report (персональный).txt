@@ -1,0 +1,24 @@
+﻿Test report:(персональный)
+	
+Done: 
+
+- закончил тестирование Save as, Save, Export функциональнестей на Mac OS X 10.x, 11.x
+		
+- перепроверил и закрыл дефекты: ID-1231, ID-1234, ID-1237, ID-1232;
+		
+- помог происследовать блокер связанный с сохранением RTF документов на RHEL
+		
+- ..
+	In Progress: 
+		
+- тестирование Save as, Save, Export функциональнестей на Win7, Win 8.1
+		
+- Сделать регрессию функциональности Open на Mac
+
+	
+
+Blocker: 
+		
+defects: ID ...
+		
+Integration with Adobe is broken. Adobe не отвечают на письма. 
