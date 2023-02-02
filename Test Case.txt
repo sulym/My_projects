@@ -1,0 +1,33 @@
+﻿Test Case
+
+IDEA: проверить что мы можем пересохранить документ в HTML формат 
+без искажений после его открытия в браузере
+
+Title: Save as html after opening 
+in browser  ==> Reopened_doc_save_as_html
+
+Environment (optional):
+
+
+Pre-condition (optional):
+существует файл формата HTML, который корректно открывается 
+в браузере и он сейчас открыт в бразере в системе.
+
+
+
+Steps:
+	
+1. Launch text editor app;
+	
+2. Open any html file that was previously opened in browser;
+	
+3. Make any changes in content HTML document;
+	
+4. Save changes in document;
+	
+5. Reload page in your browser
+	
+6. Observe the result on screen in your browser
+
+Expected Result:
+The document is displayed without any corruptions and shows changes made during steps
